@@ -51,9 +51,34 @@ img {
     animation: orbit 50s linear infinite;
 }
 
+.venus{
+    top: 10em;
+    left: 10em;
+    width: 20em;
+    height: 20em;
+    animation: orbit 50s linear infinite;
+}
+
+.mercury{
+    top: 6em;
+    left: 6em;
+    width: 28em;
+    height: 28em;
+    animation: orbit 50s linear infinite;
+}
+
+.mercury{
+    top: 12.5em;
+    left: 12.5em;
+    width: 15em;
+    height: 15em;
+    animation: orbit 50s linear infinite;
+}
+
 .star {
     position: absolute;
     background-color: white;
     border-radius: 50%;
     z-index: -1;
 }
+
