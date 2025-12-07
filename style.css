@@ -36,7 +36,9 @@ img {
 
 
 .mercury,.venus,.earth,.moon,.mars,.jupiter,.saturn,.uranus,.neptune,.pluto{
-    
+    position: absolute; 
+    border-style: solid;
+    border-color: white transparent transparent;
 }
 
 .star {
