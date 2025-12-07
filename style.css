@@ -43,6 +43,14 @@ img {
     border-radius: 50%;
 }
 
+.mercury{
+    top: 12.5em;
+    left: 12.5em;
+    width: 15em;
+    height: 15em;
+    animation: orbit 50s linear infinite;
+}
+
 .star {
     position: absolute;
     background-color: white;
